@@ -1,0 +1,13 @@
+x = 5
+y = 1
+evaluate1 = x + y
+evaluate2 = x / y
+evaluate3 = x * y
+evaluate4 = x - y
+puts "the variable x = 5"
+puts "the variable y = 1"
+
+puts "the answer to X + Y is #{evaluate1}"
+puts "the answer to X / Y is #{evaluate2}"
+puts "the answer to X * Y is #{evaluate3}"
+puts "the answer to X - Y is #{evaluate4}"
